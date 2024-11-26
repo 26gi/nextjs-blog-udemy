@@ -32,7 +32,7 @@ export default function Home({ allPostData }) {
   return (
     <Layout>
       <section className={utilStyle.headingMd}>
-        <p>私はWebエンジニアです</p>
+        <p>私は駆け出しのWebエンジニアです/好きなフレームワークはNext.jsです</p>
       </section>
 
       <section>
